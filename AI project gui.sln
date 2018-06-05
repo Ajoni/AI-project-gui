@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI project gui", "AI project gui\AI project gui.csproj", "{5AA756EC-4E61-4B65-8B0E-3CF6A8A94E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA756EC-4E61-4B65-8B0E-3CF6A8A94E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA756EC-4E61-4B65-8B0E-3CF6A8A94E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA756EC-4E61-4B65-8B0E-3CF6A8A94E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA756EC-4E61-4B65-8B0E-3CF6A8A94E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {237C6A5F-37C3-41D5-AB5C-DA9011F865ED}
+	EndGlobalSection
+EndGlobal
