@@ -95,11 +95,11 @@ namespace AI_project_gui
                     result = proc.StandardOutput.ReadToEnd();
                 }
 
-                ResultBlock.Text = result;
+                ResultBox.Text = result;
             }
             catch (Exception ex)
             {
-                ResultBlock.Text = $"R Script failed:  + {result}  {ex}";
+                ResultBox.Text = $"R Script failed:  + {result}  {ex}";
             }
         }
     }
